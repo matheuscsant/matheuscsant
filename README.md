@@ -7,9 +7,9 @@
 - 🏢 Busco oportunidades para começar ganhar experiência na área
 
 <div>
-<a href="https://github.com/MatheusCampanhola">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscampanhola&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscampanhola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/matheuscsant">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscsant&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Linguagens/IDE's que utilizo ou já utilizei
@@ -24,4 +24,4 @@
 <a href="https://www.linkedin.com/in/matheuscampanhola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
- ![Snake animation](https://github.com/MatheusCampanhola/MatheusCampanhola/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/matheuscsant/matheuscsant/blob/output/github-contribution-grid-snake.svg)
