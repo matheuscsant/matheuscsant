@@ -1,8 +1,7 @@
 ## Olá pessoal, me chamo Matheus ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na Tereos S/A
-- 🌱 Atualmente estou me especializando em Front-End
+- 🌱 Atualmente estou me especializando para me tornar um dev Full-Stack
 - 👨‍🎓 Estou no 5º período de Ciência da Computação na UNIP
 - 🏢 Busco oportunidades para começar ganhar experiência na área
 
