@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou me especializando para me tornar um dev Full-Stack
 - 👨‍🎓 Estou no 5º período de Ciência da Computação na UNIP
-- 🏢 PRATIC Sistemas - Tanabi-SP
+- 🏢 PRATIC Sistemas - Tanabi/SP
 
 <div>
 <a href="https://github.com/matheuscsant">
