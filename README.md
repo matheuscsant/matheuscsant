@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Atualmente estou me especializando para me tornar um dev Full-Stack
-- 👨‍🎓 Estou no 6º período de Ciência da Computação na UNIP
+- 👨‍🎓 Estou no 7º período de Ciência da Computação na UNIP
 - 🏢 PRATIC Sistemas - Tanabi/SP
 
 <div>
