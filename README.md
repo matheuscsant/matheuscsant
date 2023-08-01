@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/matheuscsant">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscsant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscsant&show_icons=true&theme=gotham" alt="matheuscsant" />
 </div>
 
 ### Linguagens/IDE's que utilizo ou já utilizei
