@@ -1,15 +1,18 @@
 ## Olá pessoal, me chamo Matheus ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou me especializando para me tornar um dev Full-Stack
-- 👨‍🎓 Estou no 7º período de Ciência da Computação na UNIP
-- 🏢 PRATIC Sistemas - Tanabi/SP
+- 🌱 Java is life ☕
 
 <div>
 <a href="https://github.com/matheuscsant">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=github_dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscsant&show_icons=true&theme=github_dark" alt="matheuscsant" />
 </div>
+
+## Projeto mais recente:
+
+<a href="https://github.com/matheuscsant/Projeto-Spring-Boot">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuscsant&repo=projeto-spring-boot&show_owner=true&theme=github_dark" alt="matheuscsant" />
 
 ### Linguagens/IDE's que utilizo ou já utilizei
 
@@ -30,7 +33,6 @@
 
 ## Redes sociais
 <div>
-<a href="https://instagram.com/mathc.sant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheuscampanholasantos123@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheuscampanhola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
