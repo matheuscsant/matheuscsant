@@ -10,9 +10,13 @@
 </div>
 
 ## Projetos Back-End
-<a href="https://github.com/matheuscsant/Projeto-Spring-Boot">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuscsant&repo=projeto-spring-boot&show_owner=true&theme=github_dark" alt="matheuscsant" /> <a href="https://github.com/lzzgabriel/stu">
+<div>
+  <a href="https://github.com/matheuscsant/Projeto-Spring-Boot">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuscsant&repo=projeto-spring-boot&show_owner=true&theme=github_dark" alt="matheuscsant" /> 
+<a href="https://github.com/lzzgabriel/stu">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=github_dark" alt="matheuscsant" />
+</div>
+
 
 ### Linguagens/IDE's que utilizo ou já utilizei
 
