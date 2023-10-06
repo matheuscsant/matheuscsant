@@ -1,7 +1,6 @@
-## Olá pessoal, me chamo Matheus ! 
-### Bem vindo ao meu perfil GitHub 👋
+# Hi, I am Matheus ! 
 
-- 🌱 Java is life ☕
+<p align = "justify">Back-End Developer, Coffee lover and Java fan ☕</p>
 
 <div>
 <a href="https://github.com/matheuscsant">
@@ -9,32 +8,30 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscsant&show_icons=true&theme=github_dark" alt="matheuscsant" />
 </div>
 
-## Projetos Back-End
+## Projects with Back-End performance 
 
 <a href="https://github.com/matheuscsant/Projeto-Spring-Boot">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuscsant&repo=projeto-spring-boot&show_owner=true&theme=github_dark" alt="matheuscsant" /> 
 <a href="https://github.com/lzzgabriel/stu">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=github_dark" alt="matheuscsant" />
 
-### Linguagens/IDE's que utilizo ou já utilizei
+## 🚀💻 Technologies & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" heigh="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" heigh="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" heigh="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" heigh="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigh="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" heigh="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" heigh="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" heigh="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" heigh="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" heigh="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" heigh="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" heigh="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" heigh="40"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-## Redes sociais
-<div>
-<a href = "mailto:matheuscampanholasantos123@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheuscampanhola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## Social networks
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Campanhola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscampanhola/)](https://www.linkedin.com/in/matheuscampanhola/)
+[![Gmail Badge](https://img.shields.io/badge/-matheus.csant1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.csant1@gmail.com)](mailto:matheus.csant1@gmail.com)
