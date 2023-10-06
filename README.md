@@ -11,7 +11,7 @@
 ## Projects with Back-End performance 
 
 <a href="https://github.com/matheuscsant/Projeto-Spring-Boot">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuscsant&repo=projeto-spring-boot&show_owner=true&theme=github_dark" alt="matheuscsant" /> 
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuscsant&repo=spring-boot-project&show_owner=true&theme=github_dark" alt="matheuscsant" /> 
 <a href="https://github.com/lzzgabriel/stu">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=github_dark" alt="matheuscsant" />
 
@@ -33,6 +33,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ## Social networks
