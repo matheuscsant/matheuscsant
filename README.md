@@ -5,7 +5,7 @@
 <div>
 <a href="https://github.com/matheuscsant">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscsant&show_icons=true&theme=github_dark" alt="matheuscsant" />
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscsant&theme=github_dark_blue&hide_border=false"/>
 </div>
 
 ## Projects with Back-End performance 
@@ -25,6 +25,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
