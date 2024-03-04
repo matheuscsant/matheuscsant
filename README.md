@@ -4,8 +4,8 @@
 
 <div>
 <a href="https://github.com/matheuscsant">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscsant&theme=github_dark_blue&hide_border=false"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscsant&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscsant&theme=github_dark_blue&hide_border=false"/>
 </div>
 
 ## Projects with Back-End performance 
