@@ -49,7 +49,7 @@
 
 ## Social networks
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Campanhola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscampanhola/)](https://www.linkedin.com/in/matheuscampanhola/)
-[![Gmail Badge](https://img.shields.io/badge/-matheus.csant1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.csant1@gmail.com)](mailto:matheus.csant1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mathcsant.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathcsant.dev@gmail.com)](mailto:mathcsant.dev@gmail.com)
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/matheuscsant/matheuscsant/blob/output/github-contribution-grid-snake-dark.svg" />
